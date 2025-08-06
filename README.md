@@ -1,0 +1,1 @@
+[![hi](https://github.com/Velsych/hexlet-my-first-workflow-/actions/workflows/hi.yml/badge.svg)](https://github.com/Velsych/hexlet-my-first-workflow-/actions/workflows/hi.yml)
