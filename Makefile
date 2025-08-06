@@ -1,5 +1,5 @@
 hello:
-	say-hello
+	uv run say-hello
 
 
 build:
