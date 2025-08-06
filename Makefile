@@ -1,5 +1,5 @@
 say-hello:
-	uv run say-hello
+	hai
 
 
 build:
