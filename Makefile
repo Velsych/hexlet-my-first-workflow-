@@ -1,5 +1,5 @@
 say-hello:
-	hai
+	say-hello
 
 
 build:
